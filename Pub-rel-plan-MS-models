@@ -4,24 +4,47 @@ Bigger Picture Planning - Multispecies Modeling/Software Course
 - Ron and Howard standing meetings to just focus on planning final release testing and course development (teach student about modeling and get them to used the software for final release testing). Draft course overview attached. 
 - These meeting will be centered on testing the software internally,  software "leveling" - making sure each package has a consistent feel, fleshing out the details of a course.
 - Planning for Howard to go down to Florida during the last week of January to work with Ron on some focused software testing and course development.
+- Point to consider, do video tutorials for all software packages  
+- A manual (pdf) with the written materials for background and theory of the modeling approaches 
+and the manual would have links to videos on how to use the software.
 
 MSSPM
 - Beta version running in Linux.
-- Jason has seen the latest at AFS, 
-- Ron doing minor bug fixes and updates, then we'll set up meeting with Rob to get him testing. Will share code/executable via GitHub
-- Howard to start putting together manual* (background and theory), we'll pull Rob in on this as much as possible.
-* Point to consider,  we are thinking that we will do video tutorials for all software packages  - like the AFS presentation video but with voice to explain how things work and broken down into shorter videos to cover different topics for each package. That is, we'd have a manual (pdf) with the written materials for background and theory of the modeling approaches and the manual would have links to videos on how to use the software.
+- (25-October) Ron doing minor bug fixes and updates & doxygen 
+- (1-Nov) Then we'll set up meeting with Rob to get him testing - will share code/executable via GitHub
+- (15-Nov) Howard - draft manual complete (background and theory) -get Rob's help in on this.
+- (3-Dec) Rob finishes testing, Ron starts code revisions
+- (3-Jan) Ron finishes code revisions
+- (6-Jan) Ron MSSPM demo to Rob, Howard, & Jason - Decision point - major revisions, minor revisions, or hold for software leveling
+- (3- Feb)  Public release to Linux (contingent on software leveling)
+- (17-Feb) Port to Windows (contingent on Windows machine)
+
 
 MS-SCAA
 - Alpha version running in Linux.
-- Demo software with Kiersten Curti, 
-- Meet with Kirstin Holsmann to incorporate her code.
-- Demo software with Holsmann, -get her input/notes, then revise
-- Consider this to be in Beta - and move forward with testing and developing manual
+- (25-Oct) Demo software with Kiersten Curti, Ron starts revisions
+- (1-Nov) Meet with Kirstin Holsman to demo and get her code.
+- (17-Feb) Start implementing Holsman's code
+- (20-March) Finish implementing Holsman's code
+- (20-March)  Howard draft manual complete
+- (27-March) Demo to Holsman, -get her input/notes, then revise
+- (17-Apr) Finish Holsman revisions and start testing
+- (1-May) Finish testing and start revisions
+- (15-May) Finish revisions & doxygen 
+- (22-May) Ron MS-SCAA demo to K's, Howard, & Jason - Decision point - major revisions, minor revisions, or hold for software leveling 
+- (29-May) Public release to Linux (contingent on software leveling)
+- (12-June) Port to Windows (contingent on Windows machine)
 
 MSVPA
 - Beta version running in Linux and Microsoft Windows.
-- needs updating? Then develop a plan for testing.
-- Manual/documentation has been started needs to be revised and finalized.
+- (19-June) Update code based current notes and general software (e.g., MySql, Qt)? 
+- (17-July) Start testing
+- (17-July) Howard draft manual complete
+- (31-July) Finish testing and start revisions
+- (14-Aug) Finish revisions & doxygen 
+- (21-Aug) Ron MSVPA demo to tester, Howard, & Jason - Decision point - major revisions, minor revisions, or hold for software leveling 
+- (4-Sep) Public release to Linux (contingent on software leveling)
+- (18-Sep) Port to Windows (contingent on Windows machine)
 
-Timeline
+
+
